@@ -1,6 +1,7 @@
  @media screen and (min-width: 992px) {
             .navbar-brand {
                 margin-left: 290px;
+                font-size:50px;
             }
 
             .navbar-nav li {
@@ -206,6 +207,7 @@
             }
 
             footer .navbar-brand {
+                font-size: 50px;
                 padding: 0;
                 margin: 0;
                 font-family: Comic Sans MS;

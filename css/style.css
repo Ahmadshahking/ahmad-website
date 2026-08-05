@@ -13,10 +13,10 @@
             }
 
             .sub-header {
+                
                 padding-top: 200px;
-                padding-left:16% !important;
+                padding-left:16%;
                 font-family: 'Poppins', 'Segoe UI', sans-serif;
-                margin-left:0 !important;
 
 
             }
@@ -121,7 +121,7 @@
             }
 
             .logo {
-                letter-spacing: -2px;
+                letter-spacing: -6px;
             }
 
             .container {
@@ -220,7 +220,8 @@
             }
 
             footer .navbar-brand {
-               
+                padding: 0;
+                margin: 0;
                 font-family: Comic Sans MS;
             }
 
@@ -328,7 +329,7 @@
             }
 
             .logo {
-                letter-spacing: -2px;
+                letter-spacing: -6px;
             }
 
 

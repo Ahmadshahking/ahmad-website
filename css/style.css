@@ -93,12 +93,7 @@
 
             }
 
-            .navbar-brand {
-                font-size: 50px;
-                font-weight: 700;
-                cursor: pointer;
-                font-family: 'Caveat', cursive;
-            }
+           
 
             .logo {
                 position: relative;

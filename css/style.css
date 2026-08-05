@@ -270,6 +270,7 @@
         @media screen and (max-width:991px) {
             .sub-header {
                 margin-top: 100px;
+                padding-left:10px;
                 
             }
 

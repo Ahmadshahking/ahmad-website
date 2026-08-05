@@ -91,6 +91,8 @@
                 position: relative;
                 display: inline-flex;
                 gap: 2px;
+                font-size:50px;
+                font-weight:700px;
                
              
             }
@@ -208,7 +210,7 @@
                 padding-left: 10px;
             }
 
-            footer logo {
+                 {
                 font-size: 50px;
                 padding: 0;
                 margin: 0;
@@ -300,6 +302,8 @@
                 position: relative;
                 display: inline-flex;
                 gap: 2px;
+                font-size:50px;
+                font-weight:700px;
                
             }
 

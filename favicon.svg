@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="512" height="512" rx="80" fill="#0f172a"/>
+
+ <text x="60" y="330"
+      font-size="320"
+      font-weight="700"
+      font-family="Comic Sans MS, cursive"
+      fill="rgb(13,202,240)">
+  A
+</text>
+
+<text x="250" y="350"
+      font-size="320"
+      font-weight="700"
+      font-family="Comic Sans MS, cursive"
+      fill="rgb(13,202,240)">
+  H
+</text>
+
+</svg>

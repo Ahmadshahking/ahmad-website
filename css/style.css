@@ -91,9 +91,7 @@
                 position: relative;
                 display: inline-flex;
                 gap: 2px;
-                font-size:50px;
-                font-weight:700;
-                height:60px;
+               
                
              
             }
@@ -214,7 +212,7 @@
              footer .logo    {
                 font-size: 50px;
                 font-family:'Caveat', cursive ;
-                padding-left:0px;
+                
               
             }
 
@@ -303,9 +301,7 @@
                 position: relative;
                 display: inline-flex;
                 gap: 2px;
-                font-size:50px;
-                font-weight:700;
-                height:60px;
+               
                
             }
 

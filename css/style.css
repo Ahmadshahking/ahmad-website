@@ -95,13 +95,7 @@
 
            
 
-            .logo {
-                position: relative;
-                display: inline-flex;
-                gap: 2px;
-                font-size:50px;
-                 font-weight:700;
-            }
+            
 
             .letter {
                 transition: transform 0.4s ease;
@@ -216,13 +210,7 @@
                 padding-left: 10px;
             }
 
-            footer .navbar-brand {
-                font-size:50px;
-                font-weight:700;
-                padding: 0;
-                margin: 0;
-                font-family: Comic Sans MS;
-            }
+          
 
             .footer-title {
                 display: block;
@@ -289,12 +277,7 @@
                 z-index: 0;
             }
 
-            .navbar-brand {
-                font-size: 30px;
-                font-weight: 700;
-                cursor: pointer;
-                font-family: Comic Sans MS;
-            }
+            
 
             section {
                 background-color: whitesmoke;

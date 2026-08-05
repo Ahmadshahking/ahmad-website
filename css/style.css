@@ -99,6 +99,7 @@
                 position: relative;
                 display: inline-flex;
                 gap: 2px;
+                font-size:50px;
             }
 
             .letter {

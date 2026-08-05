@@ -312,6 +312,7 @@
                 display: inline-flex;
                 gap: 2px;
                 font-family:'Caveat', cursive;
+                font-size:50px;
             }
 
             .letter {
@@ -486,4 +487,7 @@
         .footer-item a {
             color: #fff;
             text-decoration: none;
+        }
+        footer .navbar-brand{
+         font-size:50px;
         }

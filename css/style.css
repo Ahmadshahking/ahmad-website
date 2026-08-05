@@ -130,6 +130,13 @@
                 transform: translateY(-10px);
                 transition: 0.5s;
             }
+            .logo {
+                position: relative;
+                display: inline-flex;
+                gap: 2px;
+                font-size:50px;
+                 font-weight:700;
+            }
 
            
 
@@ -209,7 +216,13 @@
             .intro-image {
                 padding-left: 10px;
             }
-
+            footer .navbar-brand {
+                font-size:50px;
+                font-weight:700;
+                padding: 0;
+                margin: 0;
+                font-family: Comic Sans MS;
+            }
           
 
             .footer-title {
@@ -276,7 +289,12 @@
                 position: relative;
                 z-index: 0;
             }
-
+            .navbar-brand {
+                font-size: 30px;
+                font-weight: 700;
+                cursor: pointer;
+                font-family: Comic Sans MS;
+            }
             
 
             section {

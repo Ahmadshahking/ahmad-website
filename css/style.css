@@ -14,7 +14,7 @@
 
             .sub-header {
                 padding-top: 200px;
-                padding-left:17%;
+                padding-left:17% !important;
                 font-family: 'Poppins', 'Segoe UI', sans-serif;
 
 

@@ -84,7 +84,7 @@
                 font-size: 50px;
                 font-weight: 700;
                 cursor: pointer;
-                font-family: 'Caveat', cursive;
+                
             }
 
             .logo {
@@ -209,7 +209,7 @@
                 padding-left: 10px;
             }
 
-                {
+               footer .logo {
                 font-size: 50px;
                 font-family:'Caveat', cursive ;
                 
@@ -283,7 +283,7 @@
 
             .navbar-brand {
                 cursor: pointer;
-                font-family: 'Caveat', cursive;
+                
             }
 
             section {

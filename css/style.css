@@ -1,7 +1,6 @@
  @media screen and (min-width: 992px) {
             .navbar-brand {
                 margin-left: 290px;
-                
             }
 
             .navbar-nav li {
@@ -14,12 +13,26 @@
             }
 
             .sub-header {
+                
                 padding-top: 200px;
-                padding-left: 16% !important;
+                padding-left:16%;
                 font-family: 'Poppins', 'Segoe UI', sans-serif;
 
 
             }
+            header {
+            background-image: url(../images/header-3.webp);
+            width: 100%;
+            height: 900px;
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center;
+            position: relative;
+            z-index: 0;
+
+
+
+        }
 
 
             .brand-name {
@@ -84,17 +97,13 @@
                 font-size: 50px;
                 font-weight: 700;
                 cursor: pointer;
-                font-family: Comic Sans MS;
-                
+                font-family: 'Caveat', cursive;
             }
 
             .logo {
                 position: relative;
                 display: inline-flex;
                 gap: 2px;
-               
-               
-             
             }
 
             .letter {
@@ -112,7 +121,7 @@
             }
 
             .logo {
-                letter-spacing: -2px;
+                letter-spacing: -6px;
             }
 
             .container {
@@ -210,11 +219,10 @@
                 padding-left: 10px;
             }
 
-             footer logo {
-                font-size: 50px;
-                font-family:Comic Sans MS;
-                
-              
+            footer .navbar-brand {
+                padding: 0;
+                margin: 0;
+                font-family: Comic Sans MS;
             }
 
             .footer-title {
@@ -283,9 +291,10 @@
             }
 
             .navbar-brand {
+                font-size: 30px;
+                font-weight: 700;
                 cursor: pointer;
                 font-family: Comic Sans MS;
-                
             }
 
             section {
@@ -303,14 +312,11 @@
                 position: relative;
                 display: inline-flex;
                 gap: 2px;
-               
-               
             }
 
             .letter {
                 transition: transform 0.4s ease;
                 color: rgb(13, 202, 240);
-                font-size:50px;
             }
 
 
@@ -323,7 +329,7 @@
             }
 
             .logo {
-                letter-spacing: -2px;
+                letter-spacing: -6px;
             }
 
 

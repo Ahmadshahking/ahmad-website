@@ -84,6 +84,7 @@
                 font-size: 50px;
                 font-weight: 700;
                 cursor: pointer;
+                font-family: Comic Sans MS;
                 
             }
 
@@ -211,7 +212,7 @@
 
                footer .logo {
                 font-size: 50px;
-                font-family:'Caveat', cursive ;
+                font-family:Comic Sans MS ;
                 
               
             }
@@ -283,6 +284,7 @@
 
             .navbar-brand {
                 cursor: pointer;
+                font-family: Comic Sans MS;
                 
             }
 

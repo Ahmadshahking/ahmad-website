@@ -94,10 +94,6 @@
 
             }
 
-           
-
-            
-
             .letter {
                 transition: transform 0.4s ease;
                 color: rgb(13, 202, 240);
@@ -136,7 +132,8 @@
                 display: inline-flex;
                 gap: 2px;
                 font-size:50px;
-                 font-weight:700;
+                font-weight:700;
+                font-family: Comic Sans MS;
             }
 
            

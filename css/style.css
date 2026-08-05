@@ -1,7 +1,7 @@
  @media screen and (min-width: 992px) {
             .navbar-brand {
                 margin-left: 290px;
-                font-size:50px;
+                
             }
 
             .navbar-nav li {
@@ -91,6 +91,8 @@
                 position: relative;
                 display: inline-flex;
                 gap: 2px;
+                font-size:50px;
+             
             }
 
             .letter {
@@ -279,8 +281,6 @@
             }
 
             .navbar-brand {
-                font-size: 30px;
-                font-weight: 700;
                 cursor: pointer;
                 font-family: Comic Sans MS;
             }
@@ -300,6 +300,8 @@
                 position: relative;
                 display: inline-flex;
                 gap: 2px;
+                font-size:50px; 
+                font-weight:bold;
             }
 
             .letter {
